@@ -13,6 +13,7 @@ Analysis steps :
 6)	Report countries
 
 Result :
+
 Clustering by socio-ekonomic factor
 Top 3 lowest countriest in socio-economic factors 
 1) **Congo, Dem. Rep**
