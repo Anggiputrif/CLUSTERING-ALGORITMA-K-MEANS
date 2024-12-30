@@ -12,11 +12,13 @@ Analysis steps :
 5)	Creating k means clustering and visualizing clusters formed
 6)	Report countries
 
+Result :
 Clustering by socio-ekonomic factor
 Top 3 lowest countriest in socio-economic factors 
 1) **Congo, Dem. Rep**
 2) Liberia
 3) Burgundi
+
 Clustering by health factor
 10 countries with the lowest Health factor
 1) Haiti
