@@ -15,12 +15,14 @@ Analysis steps :
 Result :
 
 Clustering by socio-ekonomic factor
+
 Top 3 lowest countriest in socio-economic factors 
 1) **Congo, Dem. Rep**
 2) Liberia
 3) Burgundi
 
 Clustering by health factor
+
 10 countries with the lowest Health factor
 1) Haiti
 2) Sierra Leone
